@@ -48,6 +48,7 @@ a {
 img {
     width: 50vw;
     margin-left: 50vw;
+    z-index: 0;
 }
 
 .firstview__cat {
@@ -63,5 +64,6 @@ img {
     height: 180px;
     position: absolute;
     top: 78%;
+    z-index: 10;
 }
 
